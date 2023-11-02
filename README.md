@@ -1,4 +1,3 @@
-
 # OWASP_Risk_Calculator
 
 The OWASP Risk Calculator is a tool designed to assess and compute the overall risk associated with security vulnerabilities based on the Open Web Application Security Project (OWASP) risk methodology.
